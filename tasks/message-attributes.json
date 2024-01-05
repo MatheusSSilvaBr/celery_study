@@ -1,0 +1,10 @@
+{
+  "content_type": {
+    "DataType": "String",
+    "StringValue": "application/json"
+  },
+  "content_encoding": {
+    "DataType": "String",
+    "StringValue": "utf-8"
+  }
+}
