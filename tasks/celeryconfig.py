@@ -1,8 +1,8 @@
 from kombu.utils.url import safequote
 from kombu import Queue
 
-aws_access_key = safequote("AKIAU5UD6NSEZ2RCSP45")
-aws_secret_key = safequote("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")
+aws_access_key = safequote("exemplo")
+aws_secret_key = safequote("exemplo")
 
 
 broker_url = "sqs://{aws_access_key}:{aws_secret_key}@".format(
