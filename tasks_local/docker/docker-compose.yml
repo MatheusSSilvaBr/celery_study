@@ -13,8 +13,8 @@ services:
     environment:
       SERVICES: sqs
       AWS_DEFAULT_REGION: us-east-1
-      AWS_ACCESS_KEY_ID: AKIAU5UD6NSEZ2RCSP45
-      AWS_SECRET_ACCESS_KEY: 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
+      AWS_ACCESS_KEY_ID: exemplo
+      AWS_SECRET_ACCESS_KEY: exemplo
     networks:
       - default
     
